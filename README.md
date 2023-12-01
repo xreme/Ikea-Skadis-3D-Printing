@@ -1,10 +1,10 @@
-<center>
+
 <a name="readme-top"></a>
 
 # IKEA SKADIS 3D PRINTED ACCESSORIES
 
 The Ikea Skadis is a widely available and highly customizable line of pegboards & accessories. Designed to aid in the organization of living and working spaces, the simplicity of the Skadis system gives users the opportunity to create their own custom accessories --with methods like 3D printing-- to fit one's exact needs.  Below are direct links to the resources I used to customize my skadis pegboard.
-
+<center>
 <img src = "images/SKADIS_FULL.png" width = 500>
 
 |<center>Item</center>|<center>Link</center>|<center>File</center>|
