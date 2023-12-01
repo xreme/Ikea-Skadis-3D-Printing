@@ -2,7 +2,7 @@
 
 The Ikea Skadis is a widely available and highly customizable line of pegboards & accessories. Designed to aid in the organization of living and working spaces, the simplicity of the Skadis system gives users the opportunity to create their own custom accessories --with methods like 3D printing-- to fit one's exact needs.  Below are direct links to the resources I used to customize my skadis pegboard.
 
-![[SKADIS_FULL.png | 500]]
+![image of my skadis setup](/images/SKADIS_FULL.png)
 
 |<center>Item</center>|<center>Link</center>|<center>File</center>|
 |--|--|--|
@@ -15,20 +15,20 @@ The Ikea Skadis is a widely available and highly customizable line of pegboards 
 |[Pen Holder](#Pen-holder) |[Thingiverse](https://www.thingiverse.com/thing:3238558) | Skadis__6x11_pen_holder |
 
 # STORAGE-CONTAINER
-![[medium_basket.png|500]]
+![Storage Basked Model](/images/medium_basket.png)
 # Quick-Release-Mount
-![[quick_release_mount.png|500]]
+![Quick Release mount](/images/quick_release_mount.png)
 
 # Tripod-Hook
-![[tripod_hook.png|500]]
+![Tripod Hook](/images/tripod_hook.png)
 
 # Sticky-Note-Holder
-![[sticky_note_holder.png|500]]
+![Stick Note Holder Model](/images/sticky_note_holder.png)
 
 # Calliper-Holder
-![[caliper_holder.png|500]]
+![Calliper Holder Model](/images/caliper_holder.png)
 
 # Clip-Halter
-![[clip_halter.png|500]]
+![Clip Halter](/images/clip_halter.png)
 # Pen-Holder
-![[pen_holder.png|500]]
+![Pen Holder](/images/pen_holder.png)
